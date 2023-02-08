@@ -1,0 +1,38 @@
+body {
+	font-family: Arial;
+	
+}
+
+.header_1 {
+	text-align: center;
+
+}
+
+h2 {
+	font-weight: bold;
+}
+
+.spacing{
+	margin-top: 375px;
+}
+
+.spacing_2{
+	margin-top: 600px;
+}
+
+.image-container {
+	margin-bottom: 20px;
+}
+
+.container {
+   display: flex;
+   flex-direction: row;
+   width: 100%;
+   justify-content: space-between;
+}
+
+.column {
+   width: 50%;
+   padding: 10px;
+}
+
